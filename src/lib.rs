@@ -22,7 +22,7 @@
 
 extern crate crypto_hash;
 extern crate hex;
-extern crate hyper;
+pub extern crate hyper;
 extern crate unicase;
 extern crate url;
 
